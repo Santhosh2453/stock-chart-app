@@ -9,7 +9,7 @@ A simple web app to visualize stock data from `stocks.csv`.
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/stock-dashboard.git
+git clone https://github.com/Santhosh2453/stock-chart-app
 
 2. Open `index.html` in a browser.
 
