@@ -1,6 +1,6 @@
 # Stock Dashboard
 
-A simple web app to visualize stock data from `dump.csv`.
+A simple web app to visualize stock data from `stocks.csv`.
 
 ## Features
 - Displays a list of companies.
