@@ -1,0 +1,24 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#company-list {
+    max-height: 500px;
+    overflow-y: auto;
+    cursor: pointer;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+#stockChart {
+    width: 100% !important;
+    height: 400px !important;
+    display: block;
+}
